@@ -1,13 +1,13 @@
 {
-  "name": "gentelella",
-  "version": "1.4.0",
-  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "name": "visit-template",
+  "version": "1.0.0",
+  "description": "Template für VISIT anwendungen, basierend auf https://github.com/puikinsh/gentelella",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puikinsh/gentelella.git"
+    "url": "git+https://github.com/ViSIT-Dev/visit-template.git"
   },
   "keywords": [
     "css",
@@ -20,16 +20,10 @@
     "backend",
     "responsive"
   ],
-  "author": "Aigars Silkalns",
-  "contributors": [
-    "Christian Esperar"
-  ],
+  "author": "ViSIT-Dev",
   "license": "MIT",
   "main": "build/js/custom.min.js",
-  "bugs": {
-    "url": "https://github.com/puikinsh/gentelella/issues"
-  },
-  "homepage": "https://github.com/puikinsh/gentelella#readme",
+  "homepage": "https://github.com/ViSIT-Dev/visit-template/blob/master/README.md",
   "devDependencies": {
     "browser-sync": "^2.12.10",
     "gulp": "^3.9.1",
